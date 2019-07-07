@@ -7,3 +7,8 @@ Scrapes the cricinfo statistics website to get the data for the 10 teams playing
 ## Predict 
 Predicts the winner using model 2.2
 
+## Training model 1
+Uses Final_Dataset.csv as the dataset which contains scores, wickets, RPO and overs for both the teams. There are two classifiers used in the training - SVMs and KNNs 
+
+## Training model 2
+Uses cricketstats.csv as the dataset which contains scores, wickets, RPO and overs for both the teams. There are two classifiers used in the training - SVMs and KNNs 
